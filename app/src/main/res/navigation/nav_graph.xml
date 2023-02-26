@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.oladapo.githibsearch.GithubSearchFragment"
+        android:name="com.oladapo.githibsearch.presentation.GithubSearchFragment"
         android:label="@string/first_fragment_label"
         tools:layout="@layout/github_search_fragment"/>
 </navigation>

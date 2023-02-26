@@ -1,4 +1,4 @@
-package com.oladapo.githibsearch
+package com.oladapo.githibsearch.presentation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -15,7 +15,6 @@ import androidx.paging.LoadState
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.oladapo.githibsearch.databinding.GithubSearchFragmentBinding
-import com.oladapo.githibsearch.presentation.GithubSearchViewModel
 import com.oladapo.githibsearch.presentation.adapter.GithubLoadStateAdapter
 import com.oladapo.githibsearch.presentation.adapter.GithubRepoAdapter
 import dagger.hilt.android.AndroidEntryPoint

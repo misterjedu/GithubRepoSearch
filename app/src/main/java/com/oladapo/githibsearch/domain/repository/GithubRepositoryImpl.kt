@@ -5,8 +5,7 @@ import androidx.paging.PagingConfig
 import androidx.paging.PagingData
 import com.oladapo.githibsearch.data.network.ApiService
 import com.oladapo.githibsearch.data.network.model.Item
-import com.oladapo.githibsearch.data.network.model.RepoData
-import com.oladapo.githibsearch.paging.GithubRepoPagingSource
+import com.oladapo.githibsearch.presentation.adapter.paging.GithubRepoPagingSource
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 

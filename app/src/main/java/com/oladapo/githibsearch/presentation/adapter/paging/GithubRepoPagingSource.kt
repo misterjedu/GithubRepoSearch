@@ -1,4 +1,4 @@
-package com.oladapo.githibsearch.paging
+package com.oladapo.githibsearch.presentation.adapter.paging
 
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
