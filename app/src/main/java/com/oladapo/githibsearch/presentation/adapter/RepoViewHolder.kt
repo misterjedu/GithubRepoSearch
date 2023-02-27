@@ -11,7 +11,9 @@ class RepoViewHolder(private val binding: ItemsRepoBinding) :
     fun bind(item: Item, glideRequestManager: RequestManager) {
         binding.apply {
             binding.itemRepoDescription.text = item.description
-            binding.itemRepoName.text = item.name
+            binding.itemRepoName.text = item.title
+            binding.itemOwnerName.text = item.owner.name
+            binding.itemRepoTitle.text = item.title
             binding.itemRepoUrl.text = item.owner.repositoryUrl
             glideRequestManager
                 .load(item.owner.avatarImage)

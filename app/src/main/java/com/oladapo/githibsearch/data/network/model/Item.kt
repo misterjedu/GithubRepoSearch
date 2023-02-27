@@ -7,7 +7,7 @@ data class Item(
     val description: String,
     val id: Int,
     @SerializedName("name")
-    val name: String,
+    val title: String,
     @SerializedName("owner")
     val owner: Owner,
 )
