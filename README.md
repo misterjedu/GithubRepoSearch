@@ -1,7 +1,6 @@
 # Github Repo Search
 
-This is the moove africa interview test for the android developer role, created and submitted by Oladokun Oladapo
-
+An andoid app to search GitHub repositories
 
 ## Development
 
@@ -11,10 +10,13 @@ This is the moove africa interview test for the android developer role, created 
 - [Coroutines Flow](https://developer.android.com/kotlin/flow)
 - [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview)
 - [Retrofit](https://square.github.io/retrofit/)
-- 
 - Mvvm architecture
 
+## Screenshots overview
 
-## Screenshots
+Phone View
+<img width="350" src="https://user-images.githubusercontent.com/55350481/221811719-9d133a76-1edb-4fa1-ae9a-3a2e19116e26.png"/>
 
 
+![Screenshot_1677575460](https://user-images.githubusercontent.com/55350481/221811737-f1d08eaa-bf16-460c-b9c6-034d6a987e65.png)
+Tablet View
