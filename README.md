@@ -12,6 +12,9 @@ An andoid app to search GitHub repositories
 - [Retrofit](https://square.github.io/retrofit/)
 - Mvvm architecture
 
+### Note:
+Test cases (Instrumented and Unit) not added due to the very limited time I had to work on this.
+
 ## Screenshots overview
 
 Phone View
